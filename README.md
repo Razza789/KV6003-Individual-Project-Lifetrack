@@ -1,0 +1,1 @@
+This is my Dissertation product. It's a website that serves the purpose of having a productivity tracker, financial tracker and diet tracker built into one, as not many applications do that. It will requre NPM for it work, I couldn't upload the files due to it being too large.
